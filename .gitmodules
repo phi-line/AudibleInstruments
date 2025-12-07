@@ -1,6 +1,7 @@
 [submodule "eurorack"]
 	path = eurorack
 	url = git@github.com:phi-line/eurorack.git
+	branch = kiem
 [submodule "mutable-instruments-documentation"]
 	path = mutable-instruments-documentation
 	url = git@github.com:pichenettes/mutable-instruments-documentation.git
