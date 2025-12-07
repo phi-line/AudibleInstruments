@@ -1,3 +1,6 @@
 [submodule "eurorack"]
 	path = eurorack
-	url = https://github.com/CardinalModules/eurorack.git
+	url = git@github.com:phi-line/eurorack.git
+[submodule "mutable-instruments-documentation"]
+	path = mutable-instruments-documentation
+	url = git@github.com:pichenettes/mutable-instruments-documentation.git
